@@ -15,4 +15,4 @@ Prior to using this package, it is expected that the functional images were prep
 
 
 # Citing this resource
-If you use these data, please cite our article: Siqi Yang, Yimin Zhou, Chengzong Peng, Yao Meng, Huafu Chen, Shaoshi Zhang, Xiaolu Kong, Ru Kong, B.T Thomas Yeo, Wei Liao, Zhiqiang Zhang. Macroscale Intrinsic Dynamics are associated with Microcircuit Function in Focal and Generalized Epilepsies. DOI: https://doi.org/10.21203/rs.3.rs-3244007/v1
+If you use these data, please cite our article: Siqi Yang, Yimin Zhou, Chengzong Peng, Yao Meng, Huafu Chen, Shaoshi Zhang, Xiaolu Kong, Ru Kong, B.T Thomas Yeo, Wei Liao, Zhiqiang Zhang. Macroscale Intrinsic Dynamics are associated with Microcircuit Function in Focal and Generalized Epilepsies. DOI: 10.1038/s42003-024-05819-0.
